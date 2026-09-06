@@ -1,0 +1,55 @@
+# Syntax Coloring Map For Melopero VL53l1X
+
+# Datatypes (KEYWORD1)
+Melopero_VL53L1X	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+# initialization functions
+setDeviceAddress	KEYWORD2
+initI2C KEYWORD2
+initSensor	KEYWORD2
+dataInit	KEYWORD2
+staticInit	KEYWORD2
+waitDeviceBooted	KEYWORD2
+softwareReset	KEYWORD2
+
+# parameter functions
+setPresetMode	KEYWORD2
+getPresetMode	KEYWORD2
+setDistanceMode	KEYWORD2
+getDistanceMode	KEYWORD2
+setMeasurementTimingBudgetMicroSeconds	KEYWORD2
+getMeasurementTimingBudgetMicroSeconds	KEYWORD2
+setInterMeasurementPeriodMilliSeconds	KEYWORD2
+getInterMeasurementPeriodMilliSeconds	KEYWORD2
+setUserROI	KEYWORD2
+getUserROI	KEYWORD2
+
+# Ranging functions
+startMeasurement	KEYWORD2
+stopMeasurement	KEYWORD2
+clearInterruptAndStartMeasurement	KEYWORD2
+getMeasurementDataReady	KEYWORD2
+waitMeasurementDataReady	KEYWORD2
+getRangingMeasurementData	KEYWORD2
+
+# Interrupt functions
+enableInterruptOnDataReady	KEYWORD2
+enableInterruptOnDistance	KEYWORD2
+disableInterrupt	KEYWORD2
+getInterruptConfig	KEYWORD2
+
+getErrorDescription	KEYWORD2
+
+# Instances (KEYWORD2)
+i2cAddress  KEYWORD2
+bus KEYWORD2
+pixelMatrix	KEYWORD2
+thermistorTemperature	KEYWORD2
+interruptMatrix	KEYWORD2
+interruptTriggered	KEYWORD2
+pixelTemperatureOverflow	KEYWORD2
+thermistorTemperatureOverflow	KEYWORD2
+
+# Constants (LITERAL1)
+DEFAULT_I2C_ADDRESS	LITERAL1
