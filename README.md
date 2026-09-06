@@ -11,15 +11,6 @@
 
 本节面向初学者，内容包括霍尔编码器、M/T 测速法和 Arduino Mega 2560 中断资源。培训赛规则由 2026 ASABE 规则简化而来。
 
-## 仓库导航
-
-| 模块 | 内容 | 入口 |
-| --- | --- | --- |
-| 2026 ARC 培训赛 | Lec 2 编码器计数与测速示例、培训赛规则 | [代码与说明](./2026%E5%A4%8FARC%E5%9F%B9%E8%AE%AD%E8%B5%9B-%E4%BB%A3%E7%A0%81%E9%83%A8%E5%88%86lec2/) |
-| 2026 ASABE 上板 | STM32F427ZGT6、FreeRTOS、执行机构与通信 | [工程说明](./2026ASABE%E4%B8%93%E9%A1%B9/%E4%B8%8A%E6%9D%BF-STM32f427ZGT6/README.md) |
-| 2026 ASABE 下板 | Arduino Mega 2560 Pro 底盘控制与导航状态机 | [源代码](./2026ASABE%E4%B8%93%E9%A1%B9/%E4%B8%8B%E6%9D%BF-ARDUINOmega2560pro/) |
-| 2026 ASABE 视觉 | 树莓派、AI HAT+、YOLOv8 数据集与模型部署 | [部署说明](./2026ASABE%E4%B8%93%E9%A1%B9/%E6%A0%91%E8%8E%93%E6%B4%BE%2BAIHAT/README.md) |
-| Arduino 示例与依赖 | CLaMe、ASABE、ARC、传感器测试及本地库 | [目录](./Arduino-mega-2560/) |
 
 ## 2026 ASABE 系统架构
 
