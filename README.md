@@ -51,6 +51,6 @@
 4. **视觉部署**：数据集、ONNX 模型和面向 AI HAT+ 的 HEF 模型获取方式见 [树莓派 + AI HAT+ 说明](./2026ASABE%E4%B8%93%E9%A1%B9/%E6%A0%91%E8%8E%93%E6%B4%BE%2BAIHAT/README.md)。
 
 > [!CAUTION]
-> 上电联调前，请确认各控制器共地、串口电平与波特率正确。首次检查电机方向和限位逻辑时，应将机构悬空或断开动力电源。
+> 本项目仅面向个人学习,缺少openmv等基础模块,并不能完全复刻the Robot。
 
 > Interest is all you need.
