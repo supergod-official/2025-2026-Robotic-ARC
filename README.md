@@ -33,7 +33,8 @@
 ├─ 2026ASABE专项/
 │  ├─ 树莓派+AIHAT/                 # YOLOv8 数据集、模型与部署
 │  ├─ 上板-STM32f427ZGT6/           # STM32CubeIDE + FreeRTOS 工程
-│  └─ 下板-ARDUINOmega2560pro/      # Arduino 底盘控制与导航
+│  ├─ 下板-ARDUINOmega2560pro/      # Arduino 底盘控制与导航
+│  └─ 2026ASABE比赛规则.pdf         # 2026ASABE规则最终版中翻
 ├─ Arduino-mega-2560/
 │  ├─ 2025-clame/                   # 2025 CLaMe 代码
 │  ├─ 2026-ASABE/                   # ASABE Arduino 控制代码
